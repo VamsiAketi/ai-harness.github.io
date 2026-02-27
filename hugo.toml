@@ -1,0 +1,4 @@
+baseURL = 'https://ai-harness.com.github.io/'
+languageCode = 'en-us'
+title = 'AI harness'
+theme = "hugo-saasify-theme"
