@@ -1,2 +1,0 @@
-# ai-harness
-AI Harness 
